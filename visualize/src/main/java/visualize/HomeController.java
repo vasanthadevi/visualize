@@ -11,7 +11,7 @@ public class HomeController {
 
 	@RequestMapping("/")
 	String home() {
-		return "Hi This is Deiveehan here !!!";
+		return "Hi This is  here, have setup the project !!!";
 	}
 
 	public static void main(String args[]) {
